@@ -100,7 +100,8 @@ margin: 5rem;
 #msg {
     background-color: #081b31;
     color: #fff;
-    display: inline;
+    display: inline-block;
+    white-space: nowrap;
     padding: 10px;
     font: 1em sans-serif;
     border-radius: 1rem;
